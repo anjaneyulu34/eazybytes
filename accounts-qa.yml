@@ -5,7 +5,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to accounts ms QA  UPDATED Apis"
+  message: "Welcome to accounts ms QA  Apis"
   contactDetails:
     name: "smith qa-developer"
     email: "smith@gmail.com"
