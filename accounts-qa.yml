@@ -1,0 +1,14 @@
+
+
+
+
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to accounts ms QA Apis"
+  contactDetails:
+    name: "smith qa-developer"
+    email: "smith@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)555-1234
