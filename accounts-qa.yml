@@ -5,7 +5,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to accounts ms   QA  Apis"
+  message: "Welcome to accounts ms Updated    QA  Apis"
   contactDetails:
     name: "{cipher}013654a2e1dfae42ea6e10ec85180186ebdf131105a5c3862a2e19422195c1ae0562262fb57de2c6728006399e294606"
     email: "{cipher}46e1ae6755c0664caf83a8d8dc1065edb423030b6ee34adaca0c5c7e241e6775"
